@@ -23,5 +23,4 @@ public class ToServiceStub implements TodoService {
 		
 	}
 	
-	//aSADASFDASFDSFDSGFSDGSDFS asdad
 }
