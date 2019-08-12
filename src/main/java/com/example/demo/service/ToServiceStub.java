@@ -7,8 +7,6 @@ import com.example.demo.repository.TodoService;
 
 public class ToServiceStub implements TodoService {
 	
-	
-
 	@Override
 	public List<String> retrieveTodos(String user) {
 		return Arrays.asList("Learn Spring MVC", "Learn Spring",
