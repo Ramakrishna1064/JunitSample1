@@ -25,6 +25,4 @@ public class ToServiceStub implements TodoService {
 		
 	}
 	
-	
-	//dfzgfds
 }
