@@ -22,7 +22,5 @@ public class ToServiceStub implements TodoService {
 	public void deleteItemCompletly(String item) {
 		
 	}
-	
 	//XZXZXXXx
-	
 }
